@@ -23,6 +23,7 @@ Each section of the repository corresponds directly to a part of the assignment 
 ---
 
 ## Repository Structure
+```
 Syntax-Semantics-Memory-Management/
 ├── part1/
 │ ├── python/
@@ -42,6 +43,7 @@ Syntax-Semantics-Memory-Management/
 │ ├── JavaMemory.java
 │ └── cpp_memory.cpp 
 └── README.md
+```
 
 
 ---
