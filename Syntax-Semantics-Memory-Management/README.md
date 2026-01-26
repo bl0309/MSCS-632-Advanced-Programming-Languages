@@ -2,6 +2,7 @@
 
 ## Course
 Advanced Programming Languages (MSCS-632-M20)
+
 Professor Jay Thom
 
 ## Author
