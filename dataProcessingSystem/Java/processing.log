@@ -1,0 +1,286 @@
+Apr 03, 2026 11:12:33 AM DataProcessingSystem main
+INFO: === Data Processing System Starting ===
+Apr 03, 2026 11:12:33 AM DataProcessingSystem main
+INFO: Generated 40 tasks.
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-1[alpha data packet 1]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-2[delta data packet 2]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-3[delta data packet 3]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-4[epsilon data packet 4]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-5[alpha data packet 5]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-6[alpha data packet 6]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-7[alpha data packet 7]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-8[delta data packet 8]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-9[epsilon data packet 9]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-10[delta data packet 10]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-11[gamma data packet 11]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-12[gamma data packet 12]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-13[beta data packet 13]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-14[gamma data packet 14]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-15[beta data packet 15]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-16[gamma data packet 16]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-17[beta data packet 17]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-18[alpha data packet 18]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-19[delta data packet 19]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-20[epsilon data packet 20]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-21[alpha data packet 21]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-22[delta data packet 22]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-23[beta data packet 23]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-24[delta data packet 24]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-25[delta data packet 25]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-26[beta data packet 26]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-27[alpha data packet 27]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-28[delta data packet 28]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-29[gamma data packet 29]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-30[beta data packet 30]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-31[alpha data packet 31]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-32[beta data packet 32]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-33[alpha data packet 33]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-34[alpha data packet 34]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-35[gamma data packet 35]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-36[gamma data packet 36]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-37[gamma data packet 37]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-38[delta data packet 38]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-39[delta data packet 39]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedQueue addTask
+FINE: Enqueued Task-40[epsilon data packet 40]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem main
+INFO: All tasks enqueued. Queue size: 40
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-4 started.
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-6 started.
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-3 started.
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-5 started.
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-1 started.
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-2 started.
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-1 picked up Task-5[alpha data packet 5]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-5 picked up Task-4[epsilon data packet 4]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-3 picked up Task-3[delta data packet 3]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-6 picked up Task-2[delta data packet 2]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-4 picked up Task-1[alpha data packet 1]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-2 picked up Task-6[alpha data packet 6]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-5] Task-4[epsilon data packet 4] -> EPSILON_DATA_PACKET_4_PROCESSED (took 51ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-5 picked up Task-7[alpha data packet 7]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-2] Task-6[alpha data packet 6] -> ALPHA_DATA_PACKET_6_PROCESSED (took 70ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-2 picked up Task-8[delta data packet 8]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-5] Task-7[alpha data packet 7] -> ALPHA_DATA_PACKET_7_PROCESSED (took 72ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-5 picked up Task-9[epsilon data packet 9]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-4] Task-1[alpha data packet 1] -> ALPHA_DATA_PACKET_1_PROCESSED (took 141ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-4 picked up Task-10[delta data packet 10]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-3] Task-3[delta data packet 3] -> DELTA_DATA_PACKET_3_PROCESSED (took 154ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-3 picked up Task-11[gamma data packet 11]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-6] Task-2[delta data packet 2] -> DELTA_DATA_PACKET_2_PROCESSED (took 172ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-6 picked up Task-12[gamma data packet 12]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-1] Task-5[alpha data packet 5] -> ALPHA_DATA_PACKET_5_PROCESSED (took 202ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-1 picked up Task-13[beta data packet 13]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-2] Task-8[delta data packet 8] -> DELTA_DATA_PACKET_8_PROCESSED (took 179ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-2 picked up Task-14[gamma data packet 14]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-3] Task-11[gamma data packet 11] -> GAMMA_DATA_PACKET_11_PROCESSED (took 109ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-3 picked up Task-15[beta data packet 15]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+SEVERE: Worker-4 error processing Task-10[delta data packet 10]: Simulated processing failure for Task-10[delta data packet 10]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-4 picked up Task-16[gamma data packet 16]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-5] Task-9[epsilon data packet 9] -> EPSILON_DATA_PACKET_9_PROCESSED (took 195ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-5 picked up Task-17[beta data packet 17]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-1] Task-13[beta data packet 13] -> BETA_DATA_PACKET_13_PROCESSED (took 121ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-1 picked up Task-18[alpha data packet 18]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-4] Task-16[gamma data packet 16] -> GAMMA_DATA_PACKET_16_PROCESSED (took 53ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-4 picked up Task-19[delta data packet 19]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-6] Task-12[gamma data packet 12] -> GAMMA_DATA_PACKET_12_PROCESSED (took 200ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-6 picked up Task-20[epsilon data packet 20]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-1] Task-18[alpha data packet 18] -> ALPHA_DATA_PACKET_18_PROCESSED (took 58ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-1 picked up Task-21[alpha data packet 21]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-2] Task-14[gamma data packet 14] -> GAMMA_DATA_PACKET_14_PROCESSED (took 168ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-2 picked up Task-22[delta data packet 22]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-5] Task-17[beta data packet 17] -> BETA_DATA_PACKET_17_PROCESSED (took 131ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-5 picked up Task-23[beta data packet 23]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-4] Task-19[delta data packet 19] -> DELTA_DATA_PACKET_19_PROCESSED (took 88ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-4 picked up Task-24[delta data packet 24]
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-3] Task-15[beta data packet 15] -> BETA_DATA_PACKET_15_PROCESSED (took 206ms)
+Apr 03, 2026 11:12:33 AM DataProcessingSystem$Worker run
+INFO: Worker-3 picked up Task-25[delta data packet 25]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-2] Task-22[delta data packet 22] -> DELTA_DATA_PACKET_22_PROCESSED (took 68ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-2 picked up Task-26[beta data packet 26]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-6] Task-20[epsilon data packet 20] -> EPSILON_DATA_PACKET_20_PROCESSED (took 175ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-6 picked up Task-27[alpha data packet 27]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-1] Task-21[alpha data packet 21] -> ALPHA_DATA_PACKET_21_PROCESSED (took 234ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-1 picked up Task-28[delta data packet 28]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-5] Task-23[beta data packet 23] -> BETA_DATA_PACKET_23_PROCESSED (took 187ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-5 picked up Task-29[gamma data packet 29]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-1] Task-28[delta data packet 28] -> DELTA_DATA_PACKET_28_PROCESSED (took 66ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-1 picked up Task-30[beta data packet 30]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-4] Task-24[delta data packet 24] -> DELTA_DATA_PACKET_24_PROCESSED (took 241ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-4 picked up Task-31[alpha data packet 31]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-3] Task-25[delta data packet 25] -> DELTA_DATA_PACKET_25_PROCESSED (took 235ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-3 picked up Task-32[beta data packet 32]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-5] Task-29[gamma data packet 29] -> GAMMA_DATA_PACKET_29_PROCESSED (took 66ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-5 picked up Task-33[alpha data packet 33]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-6] Task-27[alpha data packet 27] -> ALPHA_DATA_PACKET_27_PROCESSED (took 178ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-6 picked up Task-34[alpha data packet 34]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-2] Task-26[beta data packet 26] -> BETA_DATA_PACKET_26_PROCESSED (took 248ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-2 picked up Task-35[gamma data packet 35]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-3] Task-32[beta data packet 32] -> BETA_DATA_PACKET_32_PROCESSED (took 77ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-3 picked up Task-36[gamma data packet 36]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-4] Task-31[alpha data packet 31] -> ALPHA_DATA_PACKET_31_PROCESSED (took 120ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-4 picked up Task-37[gamma data packet 37]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-5] Task-33[alpha data packet 33] -> ALPHA_DATA_PACKET_33_PROCESSED (took 139ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-5 picked up Task-38[delta data packet 38]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-1] Task-30[beta data packet 30] -> BETA_DATA_PACKET_30_PROCESSED (took 171ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-1 picked up Task-39[delta data packet 39]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-2] Task-35[gamma data packet 35] -> GAMMA_DATA_PACKET_35_PROCESSED (took 181ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$Worker run
+INFO: Worker-2 picked up Task-40[epsilon data packet 40]
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-6] Task-34[alpha data packet 34] -> ALPHA_DATA_PACKET_34_PROCESSED (took 232ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-3] Task-36[gamma data packet 36] -> GAMMA_DATA_PACKET_36_PROCESSED (took 177ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-4] Task-37[gamma data packet 37] -> GAMMA_DATA_PACKET_37_PROCESSED (took 191ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-1] Task-39[delta data packet 39] -> DELTA_DATA_PACKET_39_PROCESSED (took 166ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-2] Task-40[epsilon data packet 40] -> EPSILON_DATA_PACKET_40_PROCESSED (took 115ms)
+Apr 03, 2026 11:12:34 AM DataProcessingSystem$SharedResults add
+FINE: Result saved: [Worker-5] Task-38[delta data packet 38] -> DELTA_DATA_PACKET_38_PROCESSED (took 236ms)
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+FINE: Worker-6 found no task; exiting.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+INFO: Worker-6 finished.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+FINE: Worker-3 found no task; exiting.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+INFO: Worker-3 finished.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+FINE: Worker-4 found no task; exiting.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+INFO: Worker-4 finished.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+FINE: Worker-1 found no task; exiting.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+INFO: Worker-1 finished.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+FINE: Worker-2 found no task; exiting.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+INFO: Worker-2 finished.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+FINE: Worker-5 found no task; exiting.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$Worker run
+INFO: Worker-5 finished.
+Apr 03, 2026 11:12:35 AM DataProcessingSystem$SharedResults flushToFile
+INFO: Flushed 39 results to results.txt
+Apr 03, 2026 11:12:35 AM DataProcessingSystem main
+INFO: === Processing complete. Tasks submitted: 40 | Results recorded: 39 ===
